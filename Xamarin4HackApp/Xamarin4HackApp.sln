@@ -13,7 +13,10 @@ Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Xamarin4HackApp", "Xamarin4
 EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		Xamarin4HackApp\Xamarin4HackApp\Xamarin4HackApp.projitems*{12dcda30-ccb1-4ea2-bf1c-c493bddb609d}*SharedItemsImports = 4
+		Xamarin4HackApp\Xamarin4HackApp\Xamarin4HackApp.projitems*{2677af6b-5543-4732-b408-4f0ff9006227}*SharedItemsImports = 4
 		Xamarin4HackApp\Xamarin4HackApp\Xamarin4HackApp.projitems*{6502d9ce-9249-4afd-aed6-8d92335fa2db}*SharedItemsImports = 13
+		Xamarin4HackApp\Xamarin4HackApp\Xamarin4HackApp.projitems*{de8b6a14-cdd1-406d-8768-6dfec6b9cc95}*SharedItemsImports = 4
 	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Ad-Hoc|Any CPU = Ad-Hoc|Any CPU
