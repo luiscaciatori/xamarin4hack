@@ -77,6 +77,7 @@ C:\Users\luiz.caciatori\Documents\xamarin4hack\xamarin4hack\Xamarin4HackApp\Xama
 C:\Users\luiz.caciatori\Documents\xamarin4hack\xamarin4hack\Xamarin4HackApp\Xamarin4HackApp\Xamarin4HackApp.WinPhone\Bin\Debug\ru\System.Windows.Interactivity.resources.dll
 C:\Users\luiz.caciatori\Documents\xamarin4hack\xamarin4hack\Xamarin4HackApp\Xamarin4HackApp\Xamarin4HackApp.WinPhone\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
 C:\Users\luiz.caciatori\Documents\xamarin4hack\xamarin4hack\Xamarin4HackApp\Xamarin4HackApp\Xamarin4HackApp.WinPhone\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\luiz.caciatori\Documents\xamarin4hack\xamarin4hack\Xamarin4HackApp\Xamarin4HackApp\Xamarin4HackApp.WinPhone\obj\Debug\Xamarin4HackApp.WinPhone.csprojResolveAssemblyReference.cache
 C:\Users\luiz.caciatori\Documents\xamarin4hack\xamarin4hack\Xamarin4HackApp\Xamarin4HackApp\Xamarin4HackApp.WinPhone\obj\Debug\App.g.cs
 C:\Users\luiz.caciatori\Documents\xamarin4hack\xamarin4hack\Xamarin4HackApp\Xamarin4HackApp\Xamarin4HackApp.WinPhone\obj\Debug\MainPage.g.cs
 C:\Users\luiz.caciatori\Documents\xamarin4hack\xamarin4hack\Xamarin4HackApp\Xamarin4HackApp\Xamarin4HackApp.WinPhone\obj\Debug\Xamarin4HackApp.WinPhone.g.resources

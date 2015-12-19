@@ -9,14 +9,14 @@ C:\Users\luiz.caciatori\Documents\xamarin4hack\xamarin4hack\Xamarin4HackApp\Xama
 C:\Users\luiz.caciatori\Documents\xamarin4hack\xamarin4hack\Xamarin4HackApp\Xamarin4HackApp\Xamarin4HackApp.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
 C:\Users\luiz.caciatori\Documents\xamarin4hack\xamarin4hack\Xamarin4HackApp\Xamarin4HackApp\Xamarin4HackApp.Droid\bin\Debug\Xamarin.Forms.Core.xml
 C:\Users\luiz.caciatori\Documents\xamarin4hack\xamarin4hack\Xamarin4HackApp\Xamarin4HackApp\Xamarin4HackApp.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\luiz.caciatori\Documents\xamarin4hack\xamarin4hack\Xamarin4HackApp\Xamarin4HackApp\Xamarin4HackApp.Droid\obj\Debug\Xamarin4HackApp.Droid.csprojResolveAssemblyReference.cache
+C:\Users\luiz.caciatori\Documents\xamarin4hack\xamarin4hack\Xamarin4HackApp\Xamarin4HackApp\Xamarin4HackApp.Droid\obj\Debug\res\drawable\monoandroidsplash.png
+C:\Users\luiz.caciatori\Documents\xamarin4hack\xamarin4hack\Xamarin4HackApp\Xamarin4HackApp\Xamarin4HackApp.Droid\obj\Debug\res\values\styles.xml
 C:\Users\luiz.caciatori\Documents\xamarin4hack\xamarin4hack\Xamarin4HackApp\Xamarin4HackApp\Xamarin4HackApp.Droid\obj\Debug\Xamarin4HackApp.Droid.dll
 C:\Users\luiz.caciatori\Documents\xamarin4hack\xamarin4hack\Xamarin4HackApp\Xamarin4HackApp\Xamarin4HackApp.Droid\obj\Debug\Xamarin4HackApp.Droid.pdb
 C:\Users\luiz.caciatori\Documents\xamarin4hack\xamarin4hack\Xamarin4HackApp\Xamarin4HackApp\Xamarin4HackApp.Droid\obj\Debug\android\bin\Xamarin4HackApp.Droid.apk
 C:\Users\luiz.caciatori\Documents\xamarin4hack\xamarin4hack\Xamarin4HackApp\Xamarin4HackApp\Xamarin4HackApp.Droid\obj\Debug\res\drawable\icon.png
 C:\Users\luiz.caciatori\Documents\xamarin4hack\xamarin4hack\Xamarin4HackApp\Xamarin4HackApp\Xamarin4HackApp.Droid\obj\Debug\R.cs.flag
 C:\Users\luiz.caciatori\Documents\xamarin4hack\xamarin4hack\Xamarin4HackApp\Xamarin4HackApp\Xamarin4HackApp.Droid\obj\Debug\uploadflags.txt
-C:\Users\luiz.caciatori\Documents\xamarin4hack\xamarin4hack\Xamarin4HackApp\Xamarin4HackApp\Xamarin4HackApp.Droid\obj\Debug\res\drawable\monoandroidsplash.png
-C:\Users\luiz.caciatori\Documents\xamarin4hack\xamarin4hack\Xamarin4HackApp\Xamarin4HackApp\Xamarin4HackApp.Droid\obj\Debug\res\values\styles.xml
-C:\Users\luiz.caciatori\Documents\xamarin4hack\xamarin4hack\Xamarin4HackApp\Xamarin4HackApp\Xamarin4HackApp.Droid\obj\Debug\Xamarin4HackApp.Droid.csprojResolveAssemblyReference.cache
 C:\Users\luiz.caciatori\Documents\xamarin4hack\xamarin4hack\Xamarin4HackApp\Xamarin4HackApp\Xamarin4HackApp.Droid\obj\Debug\Xamarin4HackApp.Droid.dll.mdb
 C:\Users\luiz.caciatori\Documents\xamarin4hack\xamarin4hack\Xamarin4HackApp\Xamarin4HackApp\Xamarin4HackApp.Droid\bin\Debug\Xamarin4HackApp.Droid.dll.mdb
